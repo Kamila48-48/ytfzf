@@ -1,2 +1,2 @@
 Conflict conflict2 conflict3
-a b
+a b c
